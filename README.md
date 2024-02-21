@@ -8,7 +8,11 @@ Get your Mac onto the classroom wifi. How? Look around.
 * *Make sure to use a professional username/handle.* We recommend the username incorporates your name. 
 * Be sure to add an appropriate avatar (picture or image) to your profile. 
 
+## On your Mac
 
+_Create two folders in your home folder: __Projects__ and __Books___.
+You will put all your code and projects into the _Projects_ folder and all the various PDFs, books, and articles you get from slack into _Books_.
+It's not a bad idea to put both of these folders _inside_ the _Documents_ folder your mac already has.
 
 ### gmail
 
@@ -26,7 +30,9 @@ If you haven't already,
 ### iCloud
 
 Use your spiffy new business gmail account to create an iCloud account (if you don't already have one from your iPhone).
-Even if you're an *android-head*, use iCloud for certain things when you're using Apple products. You can always login later on [iCloud](iCloud.com) to access stuff from windoze or android.
+Even if you're an *android-head*, use iCloud for certain things when you're using Apple products. You can always login later on [iCloud](iCloud.com) to access stuff from windoze or android using its web interface.
+
+If you put your _Projects_ and _Books_ folders in _Documents_, iCloud will automatically sync it all with your iCloud account.
 
 ### Passwords
 
@@ -96,10 +102,6 @@ xcode-select --install
 * Download the PKG file for Corretto JDK 11 - BE SURE TO DOWNLOAD for Platform __macOS aarch64__
   * https://corretto.aws/downloads/latest/amazon-corretto-11-aarch64-macos-jdk.pkg
 * Use the downloaded .pkg file to install the application.
-
-### BlueJ
-
-* Download the Mac version of BlueJ at https://www.bluej.org
 
 ### IntelliJ
 
